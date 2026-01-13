@@ -5,5 +5,4 @@ rectangle {
     (Rigester Course)
 }
 Student --> (Rigester Course)
-
 @enduml
