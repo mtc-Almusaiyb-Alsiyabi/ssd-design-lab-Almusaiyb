@@ -1,0 +1,8 @@
+@startuml
+left to right direction
+actor Student
+rectangle {
+    (Rigester Course)
+}
+Student --> (Rigester Course)
+@enduml
